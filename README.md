@@ -1,8 +1,8 @@
 ### Aplicación de comandos
 
-Estes el ejercicio del curso
+Estes es el ejercicio del curso
 
-Recuerden instalar el curso
+Recuerden instalar paquetes
 
 ```
 npm install
